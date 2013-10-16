@@ -1,0 +1,19 @@
+{
+  "name": "x11-mouse",
+  "version": "0.0.0",
+  "description": "shells out to xte to control your mouse",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "x11",
+    "automation",
+    "linux"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "MIT"
+}
