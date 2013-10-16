@@ -15,5 +15,9 @@
     "linux"
   ],
   "author": "Ryan Day <soldair@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/soldair/node-x11-mouse.git"
+  }
 }
